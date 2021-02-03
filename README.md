@@ -1,6 +1,4 @@
-# Teste Prático Pixeon
-
-### Candidato : Gabriele Vieira 
+# Teste Prático
 
 #### Sobre o desafio da automação foi realizado com o Framework Cypress
 
