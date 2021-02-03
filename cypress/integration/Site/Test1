@@ -1,0 +1,93 @@
+- Page Menu Lateral
+
+Dado que estou no site demos.creative
+E estou navegando no meu lateral
+Quando seleciono um menu Dashboard 
+Então o sistema deve mostrar o gráfico e dados do Dashboard
+
+Dado que estou no site demos.creative
+E estou navegando no meu lateral
+Quando seleciono um menu Setting 
+Então o sistema deve mostrar as configurações da conta
+
+Dado que estou no site demos.creative
+E estou navegando no meu lateral
+Quando seleciono um menu Tables 
+Então o sistema deve mostrar os cards e tabelas
+
+Dado que estou no site demos.creative
+E estou navegando no meu lateral
+Quando seleciono um menu Maps 
+Então o sistema deve mostrar os mapas
+
+Dado que estou no site demos.creative
+E estou navegando no meu lateral
+Quando seleciono um menu Login
+Então o sistema direciona para uma página de login 
+
+Dado que estou no site demos.creative
+E estou navegando no meu lateral
+Quando seleciono um menu Register
+Então o sistema direciona para uma página de registro e login 
+
+Dado que estou no site demos.creative
+E estou navegando no meu lateral
+Quando seleciono um menu Lading Page
+Então o sistema direciona para uma página Lading Page do Produto
+
+Dado que estou no site demos.creative
+E estou navegando no meu lateral
+Quando seleciono um menu Profile Page
+Então o sistema direciona para uma página de perfil do usuário
+
+Dado que estou no site demos.creative
+E estou navegando no meu lateral
+E apresenta a categoria "Documentation"
+Quando seleciono a cada dos menus (Styles, CSS Components, Angular, React, Javascipt, NextJS, Svelt, VueJS )
+Então o sistema direciona para página da documentação
+
+
+- Cabeçalho
+
+Dado que estou no site demos.creative
+E estou no Cabeçalho
+Então o sistema deve mostrar a foto no canto esquerdo do usuário
+
+Dado que estou no site demos.creative
+E estou no Cabeçalho
+Então o sistema deve apresentar o campo de pesquisa
+
+
+- Dashboard
+
+Dado que estou no site demos.creative
+E estou navegando no Dashboard
+Então o sistema deve mostrar os dados "traffic", "new user", "sales", "performance"
+
+Dado que estou no site demos.creative
+E estou navegando no Dashboard
+E estou no card traffic
+Então o sistema deve o número de traffic, e a porcentagem indicando com a seta se aumentou ou diminuiu 
+
+
+Dado que estou no site demos.creative
+E estou navegando no Dashboard
+E estou no card new user
+Então o sistema deve o número de new user, e a porcentagem indicando com a seta se aumentou ou diminuiu 
+
+Dado que estou no site demos.creative
+E estou navegando no Dashboard
+E estou no card sales
+Então o sistema deve o número de sales, e a porcentagem indicando com a seta se aumentou ou diminuiu 
+
+Dado que estou no site demos.creative
+E estou navegando no Dashboard
+E estou no card performance
+Então o sistema deve o número de performance, e a porcentagem indicando com a seta se aumentou ou diminuiu 
+
+- Conteúdo
+
+Dado que estou no site demos.creative
+E estou navegando no conteúdo da página
+Então o sistema deve mostrar os conteúdos dos menus "Dashboard", "Setting", "Tables" e  Maps
+
